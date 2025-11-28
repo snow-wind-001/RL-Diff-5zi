@@ -59,3 +59,8 @@ temp/
 tmp/
 *.tmp
 
+# Local scripts
+push_to_github.sh
+easy_push.sh
+PUSH_GUIDE.md
+
